@@ -1,3 +1,8 @@
+## 依存関係をインストールする
+```
+    npm install
+```
+
 ## Json Serverを起動する
 
 ``` bash
